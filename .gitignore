@@ -2,3 +2,7 @@
 notebooks/.ipynb_checkpoints
 env
 
+.vscode/
+
+__pycache__/
+
